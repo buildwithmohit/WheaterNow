@@ -1,2 +1,3 @@
-# WheaterNow
-kySense is an interactive weather forecast web application that allows users to check real-time weather updates of any city in the world. Built using HTML, CSS, and advanced JavaScript, the app fetches data from the WeatherAPI to provide accurate weather conditions including temperature, humidity, wind speed, and more. 
+# WeatherNow
+Weather is an interactive weather forecast web application that allows users to check real-time weather updates of any city in the world. Built using HTML, CSS, and advanced JavaScript, the app fetches data from the WeatherAPI to provide accurate weather conditions including temperature, humidity, wind speed, and more.
+The unique feature of the app is its auto day-night theme switching, which changes the background and styling based on whether it's day or night in the searched location. Smooth animations and a responsive user interface enhance the user experience, making the app both functional and visually appealing.
